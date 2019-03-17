@@ -71,7 +71,7 @@ Your website will display in a two-column layout by default on larger-screen dev
 
 #### Style
 
-Your website appears with a "light" white and gray background by default, with dark text. You can quickly switch to a "dark" background with white text by changing the line in your `_config.yml` file that reads `style: light` to `style: dark`.
+Your website appears with a "light" white and gray background by default, with dark text. You can quickly switch to a "dark" background with white text by changing the line in your `_config.yml` file that reads `style: light` to `style: dark`
 
 #### Projects
 
